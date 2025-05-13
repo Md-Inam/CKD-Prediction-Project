@@ -93,3 +93,4 @@ with st.expander("ℹ️ About this app"):
     - **Developer**: MD Inam and Team (AI & Data Science)  
     - **Purpose**: Help early detection and awareness of Chronic Kidney Disease (CKD)  
     """)
+ 
